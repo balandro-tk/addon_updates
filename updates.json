@@ -1,0 +1,165 @@
+{
+    "hash": "87c982960677e57b7571d04cfe0e0356",
+    "addon_version": "2.2.4",
+    "fix_version": 1,
+    "files": {
+        "0": [
+            "channels",
+            "anibox.py"
+        ],
+        "1": [
+            "channels",
+            "animeflv.py"
+        ],
+        "2": [
+            "channels",
+            "animeonline.py"
+        ],
+        "3": [
+            "channels",
+            "cinecalidad.py"
+        ],
+        "4": [
+            "channels",
+            "dontorrents.py"
+        ],
+        "5": [
+            "channels",
+            "estrenoscinesaa.py"
+        ],
+        "6": [
+            "channels",
+            "gnula.py"
+        ],
+        "7": [
+            "channels",
+            "grantorrents.json"
+        ],
+        "8": [
+            "channels",
+            "grantorrents.py"
+        ],
+        "9": [
+            "channels",
+            "hdfull.py"
+        ],
+        "10": [
+            "channels",
+            "homecine.py"
+        ],
+        "11": [
+            "channels",
+            "megaserie.py"
+        ],
+        "12": [
+            "channels",
+            "mejortorrentla.json"
+        ],
+        "13": [
+            "channels",
+            "mejortorrentla.py"
+        ],
+        "14": [
+            "channels",
+            "newpct1.py"
+        ],
+        "15": [
+            "channels",
+            "movidytv.json"
+        ],
+        "16": [
+            "channels",
+            "movidytv.py"
+        ],
+        "17": [
+            "channels",
+            "pelisencastellano.json"
+        ],
+        "18": [
+            "channels",
+            "pelispedia2.py"
+        ],
+        "19": [
+            "channels",
+            "pelispedia2.json"
+        ],
+        "20": [
+            "channels",
+            "pelispediaio.json"
+        ],
+        "21": [
+            "channels",
+            "pelispediaio.py"
+        ],
+        "22": [
+            "channels",
+            "pelisplus.py"
+        ],
+        "23": [
+            "channels",
+            "seodiv.py"
+        ],
+        "24": [
+            "channels",
+            "seriesflix3.json"
+        ],
+        "25": [
+            "channels",
+            "seriesflix3.py"
+        ],
+        "26": [
+            "channels",
+            "serieskao.py"
+        ],
+        "27": [
+            "channels",
+            "subtorrents.py"
+        ],
+        "28": [
+            "channels",
+            "verpeliculasgratis.json"
+        ],
+        "29": [
+            "core",
+            "servertools.py"
+        ],
+        "30": [
+            "lib",
+            "decrypters.py"
+        ],
+        "31": [
+            "servers",
+            "streamlare.py"
+        ],
+        "32": [
+            "servers",
+            "streamsb.json"
+        ],
+        "33": [
+            "modules",
+            "generos.py"
+        ],
+        "34": [
+            "modules",
+            "proxysearch.py"
+        ],
+        "35": [
+            "modules",
+            "search.py"
+        ],
+        "36": [
+            "modules",
+            "tracking.py"
+        ],
+        "37": [
+            "version.txt"
+        ],
+        "38": [
+            "resources",
+            "media",
+            "channels",
+            "thumb",
+            "pelispediaio.jpg"
+        ]
+    }
+}

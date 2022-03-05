@@ -1,0 +1,19 @@
+{
+    "hash": "66c982960677e57b7571d04cfe0e0343",
+    "addon_version": "2.1.2",
+    "fix_version": 3,
+    "files": {
+        "0": [
+            "channels",
+            "hdfull.json"
+        ],
+        "1": [
+            "channels",
+            "hdfullcom.json"
+        ],
+        "2": [
+            "channels",
+            "hdfullse.json"
+        ]
+    }
+}
