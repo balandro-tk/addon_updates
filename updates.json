@@ -1,7 +1,7 @@
 {
     "hash": "87c982960677e57b7571d04cfe0e0356",
     "addon_version": "2.2.4",
-    "fix_version": 1,
+    "fix_version": 2,
     "files": {
         "0": [
             "channels",
@@ -160,6 +160,34 @@
             "channels",
             "thumb",
             "pelispediaio.jpg"
+        ],
+        "39": [
+            "channels",
+            "inkapelis.py"
+        ],
+        "40": [
+            "channels",
+            "inkapelis.json"
+        ],
+        "41": [
+            "channels",
+            "repelis24.py"
+        ],
+        "42": [
+            "channels",
+            "repelis24.json"
+        ],
+        "43": [
+            "channels",
+            "repelishd.py"
+        ],
+        "44": [
+            "channels",
+            "repelishd.json"
+        ],
+        "45": [
+            "servers",
+            "streamtape.json"
         ]
     }
 }
