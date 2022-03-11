@@ -1,7 +1,7 @@
 {
     "hash": "87c982960677e57b7571d04cfe0e0356",
     "addon_version": "2.2.4",
-    "fix_version": 2,
+    "fix_version": 3,
     "files": {
         "0": [
             "channels",
@@ -188,6 +188,30 @@
         "45": [
             "servers",
             "streamtape.json"
+        ],
+        "46": [
+            "channels",
+            "gnula24.py"
+        ],
+        "47": [
+            "channels",
+            "grantorrent.py"
+        ],
+        "48": [
+            "channels",
+            "grantorrent.json"
+        ],
+        "49": [
+            "channels",
+            "megadede2.json"
+        ],
+        "50": [
+            "channels",
+            "pelismaraton.py"
+        ],
+        "51": [
+            "channels",
+            "pelismaraton.json"
         ]
     }
 }
