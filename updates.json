@@ -1,7 +1,7 @@
 {
     "hash": "87c982960677e57b7571d04cfe0e0356",
     "addon_version": "2.2.4",
-    "fix_version": 3,
+    "fix_version": 4,
     "files": {
         "0": [
             "channels",
@@ -212,6 +212,26 @@
         "51": [
             "channels",
             "pelismaraton.json"
+        ],
+        "52": [
+            "channels",
+            "cuevana3.py"
+        ],
+        "53": [
+            "channels",
+            "mega1link.py"
+        ],
+        "54": [
+            "channels",
+            "vimeo.py"
+        ],
+        "55": [
+            "channels",
+            "dailymotion.py"
+        ],
+        "56": [
+            "channels",
+            "megaup.json"
         ]
     }
 }
