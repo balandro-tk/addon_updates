@@ -1,7 +1,7 @@
 {
     "hash": "87c982960677e57b7571d04cfe0e0356",
     "addon_version": "2.2.4",
-    "fix_version": 4,
+    "fix_version": 5,
     "files": {
         "0": [
             "channels",
@@ -232,6 +232,46 @@
         "56": [
             "channels",
             "megaup.json"
+        ],
+        "57": [
+            "channels",
+            "cuevana3video.py"
+        ],
+        "58": [
+            "channels",
+            "elitetorrent.py"
+        ],
+        "59": [
+            "channels",
+            "espapelis.py"
+        ],
+        "60": [
+            "channels",
+            "gnula.json"
+        ],
+        "61": [
+            "channels",
+            "hdfullse.py"
+        ],
+        "62": [
+            "channels",
+            "mejortorrents.py"
+        ],
+        "63": [
+            "channels",
+            "peliculasflix.json"
+        ],
+        "64": [
+            "channels",
+            "playdede.py"
+        ],
+        "65": [
+            "channels",
+            "todotorrents.py"
+        ],
+        "66": [
+            "channels",
+            "torrentdivx.py"
         ]
     }
 }
