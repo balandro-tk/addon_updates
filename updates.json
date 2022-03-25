@@ -1,7 +1,7 @@
 {
     "hash": "87c982960677e57b7571d04cfe0e0356",
     "addon_version": "2.2.4",
-    "fix_version": 5,
+    "fix_version": 6,
     "files": {
         "0": [
             "channels",
@@ -272,6 +272,34 @@
         "66": [
             "channels",
             "torrentdivx.py"
+        ],
+        "67": [
+            "channels",
+            "estrenospapaya.py"
+        ],
+        "68": [
+            "channels",
+            "kindor.py"
+        ],
+        "69": [
+            "channels",
+            "movidymobi.py"
+        ],
+        "70": [
+            "channels",
+            "peliseries.py"
+        ],
+        "71": [
+            "channels",
+            "sinpeli.py"
+        ],
+        "72": [
+            "servers",
+            "nupload.py"
+        ],
+        "73": [
+            "core",
+            "proxytools.py"
         ]
     }
 }
