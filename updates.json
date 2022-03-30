@@ -1,7 +1,7 @@
 {
     "hash": "87c982960677e57b7571d04cfe0e0356",
     "addon_version": "2.2.4",
-    "fix_version": 6,
+    "fix_version": 7,
     "files": {
         "0": [
             "channels",
@@ -300,6 +300,10 @@
         "73": [
             "core",
             "proxytools.py"
+        ],
+        "74": [
+            "channels",
+            "cinecalidad.json"
         ]
     }
 }
