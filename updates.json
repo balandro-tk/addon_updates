@@ -1,4 +1,126 @@
 {
     "hash": "87c982960677e57b7571d04cfe0e0356",
-    "addon_version": "2.2.5"
+    "addon_version": "2.2.5",
+    "fix_version": 1,
+    "files": {
+        "0": [
+            "channels",
+            "cinecalidad.py"
+        ],
+        "1": [
+            "channels",
+            "divxtotal.py"
+        ],
+        "2": [
+            "channels",
+            "dontorrents.py"
+        ],
+        "3": [
+            "channels",
+            "doramasmp4.json"
+        ],
+        "4": [
+            "channels",
+            "elifilms.py"
+        ],
+        "5": [
+            "channels",
+            "espapelis.py"
+        ],
+        "6": [
+            "channels",
+            "grantorrents.py"
+        ],
+        "7": [
+            "channels",
+            "hdfull.py"
+        ],
+        "8": [
+            "channels",
+            "mega1link.py"
+        ],
+        "9": [
+            "channels",
+            "pasateatorrent.py"
+        ],
+        "10": [
+            "channels",
+            "pelisplus.py"
+        ],
+        "11": [
+            "channels",
+            "pelisplushd.py"
+        ],
+        "12": [
+            "channels",
+            "pelisplushdlat.py"
+        ],
+        "13": [
+            "channels",
+            "pelisyseries.py"
+        ],
+        "14": [
+            "channels",
+            "torrentpelis.py"
+        ],
+        "15": [
+            "channels",
+            "xvideos.py"
+        ],
+        "16": [
+            "servers",
+            "streamlare.py"
+        ],
+        "17": [
+            "servers",
+            "streamtape.py"
+        ],
+        "18": [
+            "servers",
+            "streamtape.json"
+        ],
+        "19": [
+            "modules",
+            "actions.py"
+        ],
+        "20": [
+            "modules",
+            "filters.py"
+        ],
+        "21": [
+            "modules",
+            "groups.py"
+        ],
+        "22": [
+            "modules",
+            "helper.py"
+        ],
+        "23": [
+            "modules",
+            "mainmenu.py"
+        ],
+        "24": [
+            "modules",
+            "search.py"
+        ],
+        "25": [
+            "core",
+            "item.py"
+        ],
+        "26": [
+            "core",
+            "servertools.py"
+        ],
+        "27": [
+            "lib",
+            "decrypters.py"
+        ],
+        "28": [
+            "resources",
+            "settings.xml"
+        ],
+        "29": [
+            "version.txt"
+        ]
+    }
 }
