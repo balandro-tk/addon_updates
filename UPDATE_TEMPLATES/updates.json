@@ -1,0 +1,48 @@
+{
+    "hash": "d07d0cae83809012d234e5c60391c3ca",
+    "addon_version": "2.3.2",
+    "fix_version": 1,
+    "files": {
+        "root dir": [
+            "version"
+        ],
+        "channels": [
+            "123pelis",
+            "dilo",
+            "dontorrents",
+            "elitetorrent",
+            "ennovelas",
+            "espapelis",
+            "inkapelis",
+            "mejortorrentapp",
+            "mejortorrentla",
+            "mejortorrentnz",
+            "mejortorrents",
+            "moviesdvdr",
+            "mundodesconocido",
+            "newpct1",
+            "pasateatorrent",
+            "pelis28",
+            "repelishd",
+            "seriesretro"
+        ],
+        "core": [
+            "httptools"
+        ],
+        "lib": [
+            "decrypters"
+        ],
+        "modules": [
+            "helper",
+            "mainmenu",
+            "search"
+        ],
+        "servers": [
+            "doodstream",
+            "fastream",
+            "playtube",
+            "streamz",
+            "uptobox"
+        ]
+    }
+}
