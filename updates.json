@@ -1,18 +1,25 @@
 {
-    "hash": "d07d0cae83809012d234e5c60391c3ca",
+    "hash": "1dc0cd6fc6f0e365fcf669b5ff8f3427",
     "addon_version": "2.3.2",
-    "fix_version": 1,
+    "fix_version": 2,
     "files": {
         "root dir": [
             "version"
         ],
         "channels": [
             "123pelis",
+            "cinecalidad3",
+            "cinecalidadla",
+            "cinecalidadlol",
+            "cinecalidad",
+            "cuevana3video",
             "dilo",
             "dontorrents",
+            "elitetorrentnz",
             "elitetorrent",
             "ennovelas",
             "espapelis",
+            "grantorrent",
             "inkapelis",
             "mejortorrentapp",
             "mejortorrentla",
@@ -23,7 +30,10 @@
             "newpct1",
             "pasateatorrent",
             "pelis28",
+            "peliseries",
+            "pelisflix3",
             "repelishd",
+            "seriesflix3",
             "seriesretro"
         ],
         "core": [
@@ -33,6 +43,7 @@
             "decrypters"
         ],
         "modules": [
+            "generos",
             "helper",
             "mainmenu",
             "search"
