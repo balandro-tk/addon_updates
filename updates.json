@@ -1,7 +1,7 @@
 {
-    "hash": "1dc0cd6fc6f0e365fcf669b5ff8f3427",
+    "hash": "277def5422ed33f3abbd15d199532687",
     "addon_version": "2.3.2",
-    "fix_version": 2,
+    "fix_version": 3,
     "files": {
         "root dir": [
             "version"
@@ -20,6 +20,7 @@
             "ennovelas",
             "espapelis",
             "grantorrent",
+            "hentaisd",
             "inkapelis",
             "mejortorrentapp",
             "mejortorrentla",
@@ -32,9 +33,12 @@
             "pelis28",
             "peliseries",
             "pelisflix3",
+            "pornhd",
             "repelishd",
             "seriesflix3",
-            "seriesretro"
+            "seriesretro",
+            "subtorrents",
+            "tubehentai"
         ],
         "core": [
             "httptools"
