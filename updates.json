@@ -1,7 +1,7 @@
 {
-    "hash": "277def5422ed33f3abbd15d199532687",
+    "hash": "6dd9aac23fcc60705dd69c8e4ee746ed",
     "addon_version": "2.3.2",
-    "fix_version": 3,
+    "fix_version": 4,
     "files": {
         "root dir": [
             "version"
@@ -34,6 +34,7 @@
             "peliseries",
             "pelisflix3",
             "pornhd",
+            "pornhub",
             "repelishd",
             "seriesflix3",
             "seriesretro",
@@ -47,10 +48,12 @@
             "decrypters"
         ],
         "modules": [
+            "filters",
             "generos",
             "helper",
             "mainmenu",
-            "search"
+            "search",
+            "tester"
         ],
         "servers": [
             "doodstream",
