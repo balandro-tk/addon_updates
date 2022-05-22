@@ -1,7 +1,7 @@
 {
-    "hash": "6dd9aac23fcc60705dd69c8e4ee746ed",
+    "hash": "98f07d10b2ffc1c1166dbadcbf55a0c8",
     "addon_version": "2.3.2",
-    "fix_version": 4,
+    "fix_version": 5,
     "files": {
         "root dir": [
             "version"
@@ -18,6 +18,7 @@
             "elitetorrentnz",
             "elitetorrent",
             "ennovelas",
+            "entrepeliculasyseries",
             "espapelis",
             "grantorrent",
             "hentaisd",
@@ -36,8 +37,10 @@
             "pornhd",
             "pornhub",
             "repelishd",
+            "series24",
             "seriesflix3",
             "seriesretro",
+            "srnovelas",
             "subtorrents",
             "tubehentai"
         ],
