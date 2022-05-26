@@ -1,7 +1,7 @@
 {
-    "hash": "cdd085debc975746657a459e72f9fdac",
+    "hash": "d941f4fae72407ca81acad6730cb50dd",
     "addon_version": "2.3.2",
-    "fix_version": 6,
+    "fix_version": 7,
     "files": {
         "root dir": [
             "version"
@@ -29,11 +29,13 @@
             "mejortorrents",
             "moviesdvdr",
             "mundodesconocido",
+            "mundokaos",
             "newpct1",
             "pasateatorrent",
             "pelis28",
             "peliseries",
             "pelisflix3",
+            "playdede",
             "pornhd",
             "pornhub",
             "repelishd",
@@ -43,10 +45,12 @@
             "srnovelas",
             "subtorrents",
             "tubehentai",
-            "verdetorrent"
+            "verdetorrent",
+            "watchpornfree"
         ],
         "core": [
-            "httptools"
+            "httptools",
+            "proxytools"
         ],
         "lib": [
             "decrypters"
@@ -64,6 +68,7 @@
             "doodstream",
             "fastream",
             "playtube",
+            "streamlare",
             "streamz",
             "uptobox"
         ]
