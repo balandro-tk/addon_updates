@@ -1,4 +1,26 @@
 {
     "addon_version": "2.3.3", 
-    "hash": "46891fd6cc03a06fc41a98828a89f3c7"
+    "files": {
+        "channels": [
+            "pelis28", 
+            "playdede", 
+            "seriesflix3"
+        ], 
+        "core": [
+            "httptools"
+        ], 
+        "modules": [
+            "helper", 
+            "mainmenu", 
+            "tester"
+        ], 
+        "root dir": [
+            "version"
+        ], 
+        "servers": [
+            "streamlare"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "ca152cc7e0f9f0fba3ba88081392fe85"
 }
