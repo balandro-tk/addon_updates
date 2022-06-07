@@ -2,17 +2,35 @@
     "addon_version": "2.3.3", 
     "files": {
         "channels": [
+            "cinecalidadla", 
+            "divxtotal", 
+            "dontorrents", 
+            "grantorrents", 
+            "hdfull", 
             "pelis28", 
+            "pelishouse", 
             "playdede", 
-            "seriesflix3"
+            "seriesflix3", 
+            "seriespapayato", 
+            "torrentdivx", 
+            "torrentpelis"
         ], 
         "core": [
             "httptools"
         ], 
         "modules": [
+            "actions", 
+            "filmaffinitylists", 
+            "generos", 
+            "groups", 
             "helper", 
             "mainmenu", 
-            "tester"
+            "search", 
+            "tester", 
+            "tmdblists"
+        ], 
+        "platformcode": [
+            "config"
         ], 
         "root dir": [
             "version"
@@ -21,6 +39,6 @@
             "streamlare"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "ca152cc7e0f9f0fba3ba88081392fe85"
+    "fix_version": 2, 
+    "hash": "f62446b0cfb212696ef57f13c35493e1"
 }
