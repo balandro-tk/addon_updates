@@ -1,48 +1,49 @@
 {
-    "hash": "d07d0cae83809012d234e5c60391c3ca",
-    "addon_version": "2.3.2",
-    "fix_version": 1,
+    "addon_version": "2.3.3", 
     "files": {
-        "root dir": [
-            "version"
-        ],
         "channels": [
-            "123pelis",
-            "dilo",
-            "dontorrents",
-            "elitetorrent",
-            "ennovelas",
-            "espapelis",
-            "inkapelis",
-            "mejortorrentapp",
-            "mejortorrentla",
-            "mejortorrentnz",
-            "mejortorrents",
-            "moviesdvdr",
-            "mundodesconocido",
-            "newpct1",
-            "pasateatorrent",
-            "pelis28",
-            "repelishd",
-            "seriesretro"
-        ],
+            "cinecalidadla", 
+            "divxtotal", 
+            "dontorrents", 
+            "grantorrents", 
+            "hdfull", 
+            "newpct1", 
+            "pelis28", 
+            "pelishouse", 
+            "playdede", 
+            "seriesflix3", 
+            "seriespapayato", 
+            "torrentdivx", 
+            "torrentpelis"
+        ], 
         "core": [
             "httptools"
-        ],
-        "lib": [
-            "decrypters"
-        ],
+        ], 
         "modules": [
-            "helper",
-            "mainmenu",
-            "search"
-        ],
+            "actions", 
+            "filmaffinitylists", 
+            "generos", 
+            "groups", 
+            "helper", 
+            "mainmenu", 
+            "search", 
+            "submnuctext", 
+            "tester", 
+            "tmdblists"
+        ], 
+        "platformcode": [
+            "config"
+        ], 
+        "resources": [
+            "settings"
+        ], 
+        "root dir": [
+            "version"
+        ], 
         "servers": [
-            "doodstream",
-            "fastream",
-            "playtube",
-            "streamz",
-            "uptobox"
+            "streamlare"
         ]
-    }
+    }, 
+    "fix_version": 3, 
+    "hash": "16a3987b849ee3bd2d291b1f0e920cbb"
 }
