@@ -7,6 +7,7 @@
             "dontorrents", 
             "grantorrents", 
             "hdfull", 
+            "newpct1", 
             "pelis28", 
             "pelishouse", 
             "playdede", 
@@ -26,11 +27,15 @@
             "helper", 
             "mainmenu", 
             "search", 
+            "submnuctext", 
             "tester", 
             "tmdblists"
         ], 
         "platformcode": [
             "config"
+        ], 
+        "resources": [
+            "settings"
         ], 
         "root dir": [
             "version"
@@ -39,6 +44,6 @@
             "streamlare"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "f62446b0cfb212696ef57f13c35493e1"
+    "fix_version": 3, 
+    "hash": "16a3987b849ee3bd2d291b1f0e920cbb"
 }
