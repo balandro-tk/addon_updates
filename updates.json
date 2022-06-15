@@ -1,4 +1,14 @@
 {
     "addon_version": "2.3.4", 
-    "hash": "fc7cac063fcccf2a0a6927c881348e8e"
+    "files": {
+        "modules": [
+            "actions", 
+            "helper"
+        ], 
+        "root dir": [
+            "version"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "a8ab3b4b24684252d97e048cd10d7c2e"
 }
