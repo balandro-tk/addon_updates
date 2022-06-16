@@ -1,14 +1,20 @@
 {
     "addon_version": "2.3.4", 
     "files": {
+        "channels": [
+            "divxtotal", 
+            "dontorrents", 
+            "hdfull"
+        ], 
         "modules": [
             "actions", 
-            "helper"
+            "helper", 
+            "tester"
         ], 
         "root dir": [
             "version"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "a8ab3b4b24684252d97e048cd10d7c2e"
+    "fix_version": 2, 
+    "hash": "2ba4789918c079e1b9c7089ed5276f35"
 }
