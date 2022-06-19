@@ -2,19 +2,32 @@
     "addon_version": "2.3.4", 
     "files": {
         "channels": [
+            "cinecalidadla", 
             "divxtotal", 
             "dontorrents", 
-            "hdfull"
+            "hdfull", 
+            "hdfullse", 
+            "newpct1"
+        ], 
+        "core": [
+            "httptools", 
+            "requeststools"
         ], 
         "modules": [
             "actions", 
+            "filmaffinitylists", 
+            "groups", 
             "helper", 
-            "tester"
+            "mainmenu", 
+            "submnuctext", 
+            "tester", 
+            "tmdblists", 
+            "tracking"
         ], 
         "root dir": [
             "version"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "2ba4789918c079e1b9c7089ed5276f35"
+    "fix_version": 3, 
+    "hash": "e41ac862d1bd4065206dcb58b6f1774b"
 }
