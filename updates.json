@@ -19,6 +19,7 @@
             "groups", 
             "helper", 
             "mainmenu", 
+            "search", 
             "submnuctext", 
             "tester", 
             "tmdblists", 
@@ -28,6 +29,6 @@
             "version"
         ]
     }, 
-    "fix_version": 3, 
-    "hash": "e41ac862d1bd4065206dcb58b6f1774b"
+    "fix_version": 4, 
+    "hash": "3d817f3065a9f4f1dcd3bf5c383d20cd"
 }
