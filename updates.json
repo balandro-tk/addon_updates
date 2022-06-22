@@ -3,10 +3,13 @@
     "files": {
         "channels": [
             "cinecalidadla", 
+            "cinecalidadlol", 
+            "cuevana3", 
             "divxtotal", 
             "dontorrents", 
             "hdfull", 
             "hdfullse", 
+            "mundokaos", 
             "newpct1"
         ], 
         "core": [
@@ -16,6 +19,7 @@
         "modules": [
             "actions", 
             "filmaffinitylists", 
+            "generos", 
             "groups", 
             "helper", 
             "mainmenu", 
@@ -25,10 +29,13 @@
             "tmdblists", 
             "tracking"
         ], 
+        "resources": [
+            "settings"
+        ], 
         "root dir": [
             "version"
         ]
     }, 
-    "fix_version": 4, 
-    "hash": "3d817f3065a9f4f1dcd3bf5c383d20cd"
+    "fix_version": 5, 
+    "hash": "2e9bee562ef8eb5a7ebd84d7f22098d2"
 }
