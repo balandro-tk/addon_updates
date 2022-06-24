@@ -10,7 +10,9 @@
             "hdfull", 
             "hdfullse", 
             "mundokaos", 
-            "newpct1"
+            "newpct1", 
+            "pelis24de", 
+            "pelis28"
         ], 
         "core": [
             "httptools", 
@@ -36,6 +38,6 @@
             "version"
         ]
     }, 
-    "fix_version": 5, 
-    "hash": "2e9bee562ef8eb5a7ebd84d7f22098d2"
+    "fix_version": 6, 
+    "hash": "cef8cc211fef14377336d1674bf73769"
 }
