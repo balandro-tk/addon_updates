@@ -5,6 +5,7 @@
             "cinecalidadla", 
             "cinecalidadlol", 
             "cuevana3", 
+            "cuevana3video", 
             "divxtotal", 
             "dontorrents", 
             "hdfull", 
@@ -12,7 +13,10 @@
             "mundokaos", 
             "newpct1", 
             "pelis24de", 
-            "pelis28"
+            "pelis28", 
+            "pelishouse", 
+            "pelispedia", 
+            "pelispedia2"
         ], 
         "core": [
             "httptools", 
@@ -36,8 +40,11 @@
         ], 
         "root dir": [
             "version"
+        ], 
+        "servers": [
+            "streamlare"
         ]
     }, 
-    "fix_version": 6, 
-    "hash": "cef8cc211fef14377336d1674bf73769"
+    "fix_version": 7, 
+    "hash": "f8eb7607f17b864820aad34551bb792d"
 }
