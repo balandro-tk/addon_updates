@@ -1,4 +1,21 @@
 {
     "addon_version": "2.3.5", 
-    "hash": "cb55151137486ff718f796a850e149d9"
+    "files": {
+        "channels": [
+            "inkapelis", 
+            "repelis24"
+        ], 
+        "core": [
+            "servertools"
+        ], 
+        "root dir": [
+            "version"
+        ], 
+        "servers": [
+            "streamsb", 
+            "streamtape"
+        ]
+    }, 
+    "fix_version": 1, 
+    "hash": "dd440bd9156c28c4bd470d4d229e459b"
 }
