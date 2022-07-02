@@ -2,20 +2,29 @@
     "addon_version": "2.3.5", 
     "files": {
         "channels": [
+            "cinecalidad", 
             "inkapelis", 
+            "newpct1", 
+            "pelis24de", 
+            "pelishouse", 
             "repelis24"
         ], 
         "core": [
             "servertools"
         ], 
+        "modules": [
+            "groups"
+        ], 
         "root dir": [
             "version"
         ], 
         "servers": [
+            "streamlare", 
             "streamsb", 
-            "streamtape"
+            "streamtape", 
+            "uptobox"
         ]
     }, 
-    "fix_version": 1, 
-    "hash": "dd440bd9156c28c4bd470d4d229e459b"
+    "fix_version": 2, 
+    "hash": "4eb99e881674bc82533fda2a2770e935"
 }
