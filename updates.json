@@ -3,28 +3,37 @@
     "files": {
         "channels": [
             "cinecalidad", 
+            "dontorrents", 
+            "grantorrents", 
+            "hdfull", 
             "inkapelis", 
+            "monoschinos", 
             "newpct1", 
             "pelis24de", 
             "pelishouse", 
+            "pelisplushd", 
             "repelis24"
         ], 
         "core": [
-            "servertools"
+            "servertools", 
+            "trackingtools"
         ], 
         "modules": [
+            "actions", 
             "groups"
         ], 
         "root dir": [
             "version"
         ], 
         "servers": [
+            "anonfiles", 
+            "gvideo", 
             "streamlare", 
             "streamsb", 
             "streamtape", 
             "uptobox"
         ]
     }, 
-    "fix_version": 2, 
-    "hash": "4eb99e881674bc82533fda2a2770e935"
+    "fix_version": 3, 
+    "hash": "fbe518f6f848559a63f7cb5f3236f71a"
 }
