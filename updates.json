@@ -1,44 +1,4 @@
 {
-    "addon_version": "2.3.5", 
-    "files": {
-        "channels": [
-            "cinecalidad", 
-            "dontorrents", 
-            "grantorrents", 
-            "hdfull", 
-            "inkapelis", 
-            "mejortorrentla", 
-            "monoschinos", 
-            "newpct1", 
-            "pelis24de", 
-            "pelishouse", 
-            "pelisplushd", 
-            "repelis24", 
-            "torrentdivx"
-        ], 
-        "core": [
-            "servertools", 
-            "trackingtools"
-        ], 
-        "lib": [
-            "decrypters"
-        ], 
-        "modules": [
-            "actions", 
-            "groups"
-        ], 
-        "root dir": [
-            "version"
-        ], 
-        "servers": [
-            "anonfiles", 
-            "gvideo", 
-            "streamlare", 
-            "streamsb", 
-            "streamtape", 
-            "uptobox"
-        ]
-    }, 
-    "fix_version": 4, 
-    "hash": "a07451f9a4559f28acfe1492fde44c77"
+    "addon_version": "2.3.6", 
+    "hash": "9eb11ae0c021aad149cd274d8e62b4a4"
 }
